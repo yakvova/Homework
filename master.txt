@@ -1,2 +1,3 @@
 This is the main branch
 FIX
+Текст для конфликта
