@@ -1,3 +1,4 @@
 This is a main branch feature
 
-This is a conflict from conflict-branch
+This is a conflict from conflict-branch 
+Решили
